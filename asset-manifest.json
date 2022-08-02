@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CalisBuild/static/css/main.20acbc28.css",
+    "main.js": "/CalisBuild/static/js/main.935372ac.js",
+    "static/media/banner2.png": "/CalisBuild/static/media/banner2.f824b47eff5bc97c96d1.png",
+    "static/media/gym.png": "/CalisBuild/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/CalisBuild/index.html",
+    "main.20acbc28.css.map": "/CalisBuild/static/css/main.20acbc28.css.map",
+    "main.935372ac.js.map": "/CalisBuild/static/js/main.935372ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.935372ac.js"
+  ]
+}
